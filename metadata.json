@@ -1,0 +1,5 @@
+{
+  "name": "ArchiveFlow",
+  "description": "Streamlined tool to archive audio files to the Internet Archive using Gemini for automatic metadata generation.",
+  "requestFramePermissions": []
+}
